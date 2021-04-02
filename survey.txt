@@ -3,16 +3,20 @@ CS 470 Research Project
 Parallelization of the Postgres Engine
 
 1. How do you feel the project is going so far in general? Please provide a score from 1 to 5 where 5 is excellent, 3 is OK, and 1 is terrible.
+  - The group gives a 3 for progress. We were late on the pickup, but now that we are in progress things are starting to move along.
 
 2. How urgently do you need feedback on this deliverable? Please choose one one of the following options:
 Urgent - We REALLY need feedback ASAP in order to make more progress.
 Normal - We need feedback, but we know where we are and how to keep making progress for now.
 Non-critical - We have a good handle on the project and don't need quick feedback at this point.
+  - We will say Urgent. We are continuing to flounder on setting up the database on the cluster and request further guidance.
 
 3. How effectively is your group finding meeting times and getting work done? Please choose one of the following options:
 Great - No issues.
 OK - Some obstacles, but we're overcoming them.
 Rough - Some obstacles, and we're having difficulty overcoming them.
 Problem - Major obstacles that we need to talk about with you soon.
+  - Ok; We have run into scheduling conflicts and some miscommunications but overall we have multiple communication channels.
 
 4. Do you have any specific questions you'd like me to answer as part of your evaluation?
+  - Will data analysis be enough for this project? As it seems increasingly clear that we will not be creating much if any truly original code.
