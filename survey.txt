@@ -3,7 +3,8 @@ CS 470 Research Project
 Parallelization of the Postgres Engine
 
 1. How do you feel the project is going so far in general? Please provide a score from 1 to 5 where 5 is excellent, 3 is OK, and 1 is terrible.
-  - The group gives a 3 for progress. We were late on the pickup, but now that we are in progress things are starting to move along.
+  - The group gives a 3 for progress. Despite being late on the pickup, and our setbacks so far, we feel that our ability to press forward and achieve the goal
+  is within our grasp.
 
 2. How urgently do you need feedback on this deliverable? Please choose one one of the following options:
 Urgent - We REALLY need feedback ASAP in order to make more progress.
